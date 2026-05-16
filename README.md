@@ -36,10 +36,4 @@ The dataset used for this analysis is the "Dynamic Pricing Dataset" available on
 
 ---
 
-##  Live Interactive Demo
-
-You can view and interact with the live project hosted on Streamlit Cloud. Explore how different factors affect ride prices in real-time!
-
-**[View the Live Streamlit App]([https://dynamic-ride-pricing-analysis-a9nffy5vdkkxurdsnty3sd.streamlit.app/])**
-
 
